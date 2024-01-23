@@ -37,9 +37,9 @@ To set up and install the required dependencies for this project, follow the ste
     colcon build
     ```
 
-4. Create your package for this assignment using your group name as the package name:
+4. Clone our package from this repositiory (group32_final)
     ```bash
-    ros2 pkg create group1_final ...
+    git clone https://github.com/piyush-g0enka/TurtleBot_Autonomous_Navigation.git ...
     ```
 
 5. Move the `waypoint_params.yaml` file to the `config` folder in your package.
