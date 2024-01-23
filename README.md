@@ -42,10 +42,6 @@ To set up and install the required dependencies for this project, follow the ste
     git clone https://github.com/piyush-g0enka/TurtleBot_Autonomous_Navigation.git 
     ```
 
-5. Move the `waypoint_params.yaml` file to the `config` folder in your package.
-
-6. Make adjustments in your `.bashrc` or `.zshrc` file for the new workspace.
-
 ## Task Description
 
 ### 7.1 Start the Simulation
