@@ -39,7 +39,7 @@ To set up and install the required dependencies for this project, follow the ste
 
 4. Clone our package from this repositiory (group32_final)
     ```bash
-    git clone https://github.com/piyush-g0enka/TurtleBot_Autonomous_Navigation.git ...
+    git clone https://github.com/piyush-g0enka/TurtleBot_Autonomous_Navigation.git 
     ```
 
 5. Move the `waypoint_params.yaml` file to the `config` folder in your package.
