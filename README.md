@@ -4,6 +4,8 @@
 
 This repository contains the code for a ROS project that focuses on various aspects of robotics development. The project involves creating a ROS package, writing ROS nodes, publishers, and subscribers, broadcasting and listening to frames, using parameters, and implementing an action client to navigate a robot through multiple poses.
 
+![](https://github.com/piyush-g0enka/TurtleBot_Autonomous_Navigation/blob/main/project_demo.gif)
+
 ## Learning Outcomes and Skills Developed
 
 - Creating a ROS package.
